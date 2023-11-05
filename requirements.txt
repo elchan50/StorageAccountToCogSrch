@@ -1,0 +1,7 @@
+
+PyPDF2
+python-dotenv
+azure-ai-formrecognizer
+langchain==0.0.316
+azure-storage-blob 
+azure-identity
